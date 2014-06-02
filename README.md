@@ -11,4 +11,6 @@ Specifically:
 
 Not particularly useful by itself, but as a base image for something
 more specific.
+
+https://github.com/ethanrowe/docker-ruby-aws
  
